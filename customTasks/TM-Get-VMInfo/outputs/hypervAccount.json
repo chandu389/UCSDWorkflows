@@ -1,0 +1,5 @@
+{
+  "name": "hypervAccount",
+  "description": "HyperV Account",
+  "type": "hypervAccountIdentity"
+}

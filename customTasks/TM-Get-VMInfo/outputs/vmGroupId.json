@@ -1,0 +1,5 @@
+{
+  "name": "vmGroupId",
+  "description": "VM Group ID",
+  "type": "gen_text_input"
+}

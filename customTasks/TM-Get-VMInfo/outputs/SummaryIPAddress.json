@@ -1,0 +1,5 @@
+{
+  "name": "SummaryIPAddress",
+  "description": "SummaryIPAddress",
+  "type": "gen_text_input"
+}

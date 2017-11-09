@@ -1,0 +1,5 @@
+{
+  "name": "OUTPUT_NEW_DISK_LABEL",
+  "description": "Disk Label",
+  "type": "gen_text_input"
+}

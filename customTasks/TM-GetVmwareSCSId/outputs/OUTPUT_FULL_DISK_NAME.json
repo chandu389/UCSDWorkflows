@@ -1,0 +1,5 @@
+{
+  "name": "OUTPUT_FULL_DISK_NAME",
+  "description": "Full name of the disk - Disk Label + SCSI ID",
+  "type": "gen_text_input"
+}
