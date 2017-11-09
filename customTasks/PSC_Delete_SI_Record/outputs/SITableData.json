@@ -1,0 +1,5 @@
+{
+  "name": "SITableData",
+  "description": "Table data for the given SI Table Name, XML Format",
+  "type": "gen_text_input"
+}

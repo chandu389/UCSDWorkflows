@@ -1,5 +1,0 @@
-{
-  "name": "vmVdcId",
-  "description": "VM VDC Id",
-  "type": "gen_text_input"
-}

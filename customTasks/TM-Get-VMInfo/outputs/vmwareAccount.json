@@ -1,5 +1,0 @@
-{
-  "name": "vmwareAccount",
-  "description": "VMWare Account",
-  "type": "vmwareCloudNamesList"
-}

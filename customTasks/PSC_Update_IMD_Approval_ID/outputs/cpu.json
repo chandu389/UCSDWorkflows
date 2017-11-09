@@ -1,0 +1,5 @@
+{
+  "name": "cpu",
+  "description": "cpu",
+  "type": "gen_text_input"
+}

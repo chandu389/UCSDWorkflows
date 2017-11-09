@@ -1,5 +1,0 @@
-{
-  "name": "vmGroupName",
-  "description": "VM Group Name",
-  "type": "gen_text_input"
-}

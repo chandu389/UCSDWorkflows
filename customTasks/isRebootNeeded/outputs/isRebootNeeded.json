@@ -1,0 +1,5 @@
+{
+  "name": "isRebootNeeded",
+  "description": "isRebootNeeded",
+  "type": "gen_text_input"
+}

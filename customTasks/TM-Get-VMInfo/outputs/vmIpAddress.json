@@ -1,5 +1,0 @@
-{
-  "name": "vmIpAddress",
-  "description": "VM IP Address",
-  "type": "ipaddress"
-}

@@ -1,0 +1,5 @@
+{
+  "name": "imdApprovalUuid",
+  "description": "The uuid of imd approval",
+  "type": "gen_text_input"
+}
