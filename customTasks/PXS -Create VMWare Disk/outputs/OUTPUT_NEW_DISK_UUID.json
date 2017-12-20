@@ -1,5 +1,0 @@
-{
-  "name": "OUTPUT_NEW_DISK_UUID",
-  "description": "New Disk UUID",
-  "type": "gen_text_input"
-}

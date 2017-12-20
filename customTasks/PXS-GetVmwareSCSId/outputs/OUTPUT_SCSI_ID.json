@@ -1,5 +1,0 @@
-{
-  "name": "OUTPUT_SCSI_ID",
-  "description": "SCSI ID",
-  "type": "gen_text_input"
-}
